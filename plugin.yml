@@ -1,0 +1,10 @@
+---
+name: XSkinPersona
+main: xrde4\XSkinPersona\XSkinPersona
+version: 0.0.1
+api: 5.0.0
+author: ["https://github.com/xrde4","Special thanks to presentkim for their PM3 and PM4"]
+permissions:
+  xskinpersona.perms:
+    default: OP
+...
